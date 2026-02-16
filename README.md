@@ -34,3 +34,7 @@ Terraform scaffold is under `terraform/` with base files for:
 - provider config
 - variables and outputs
 - placeholder for AWS deployment resources
+
+## CI/CD Docs
+- GitHub Actions + Terraform: `docs/github-actions-terraform.md`
+- Future Jenkins migration: `docs/jenkins-terraform-migration.md`
